@@ -174,5 +174,5 @@
     "yallist": "^4.0.0",
     "yauzl": "^2.10.0"
   },
-  "description": ""
+  "description": "Este repositório contém testes automatizados para a aplicação Orange HRM usando Cypress."
 }
