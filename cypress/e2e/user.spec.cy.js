@@ -3,7 +3,7 @@ import LoginPage from '../pages/loginPage.js'
 import DashboardPage from '../pages/dashboardPage.js'
 import MenuPage from '../pages/menuPage.js'
 import MyInfoPage from '../pages/myInfoPage.js'
-import { min } from 'lodash'
+
 
 const Chance = require('chance')
 
